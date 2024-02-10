@@ -4,6 +4,7 @@ public class Romcom {
     String recomendation = romcomMovies[(int) (Math.random() * romcomMovies.length)];
 
     public void DisplayRomCom() {
+        System.out.println("");
         System.out.println("A romantic comedy we recommend is: " + recomendation);
         System.out.println("");
     }

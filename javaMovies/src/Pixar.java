@@ -4,6 +4,7 @@ public class Pixar {
     String choice = pixarMovies[(int) (Math.random() * pixarMovies.length)];
 
     public void DisplayPixarMovie() {
+        System.out.println("");
         System.out.println("A Pixar movie you could watch is: " + choice);
         System.out.println("");
     }

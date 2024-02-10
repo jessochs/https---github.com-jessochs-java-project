@@ -5,6 +5,7 @@ public class Fantasy {
 
     
     public void DisplayFanstasyMovie() {
+        System.out.println("");
         System.out.println("A fantasy movie we reccommend is: " + switched);
         System.out.println("");
 

@@ -4,6 +4,7 @@ public class Action {
     String option = actionMovies[(int) (Math.random() * actionMovies.length)];
 
     public void DisplayActionMovie() {
+        System.out.println("");
         System.out.println("An action movie you could watch is: " + option);
         System.out.println("");
     }

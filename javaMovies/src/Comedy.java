@@ -4,6 +4,7 @@ public class Comedy {
     String result = comedyMovies[(int) (Math.random() * comedyMovies.length)];
 
     public void DisplayComedyMovie() {
+        System.out.println("");
         System.out.println("A comedy movie you could watch is: " + result);
         System.out.println("");
     }

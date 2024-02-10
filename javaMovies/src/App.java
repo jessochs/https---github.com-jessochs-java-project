@@ -20,7 +20,7 @@ public class App {
         boolean choice = false;
 
         while(!choice) {
-            System.out.println("What kind of movies do you prefer? Choose a number 1-5:");
+            System.out.println("What kind of movie do you feel like watching? Choose a number 1-5:");
             System.out.println("1. Funny");
             System.out.println("2. Whimsical");
             System.out.println("3. Action");
@@ -59,8 +59,6 @@ public class App {
                     return;
                     // breaks out of the loop
             }
-            scan.close();
-            // close the scanner
 
         }
 
