@@ -5,8 +5,6 @@ This is a very basic example of a movie suggestion program written in Java. It c
 I wrote this software to challenge myself. I know that Java is a very commonly used language, so I have been eager to learn it. I hope to add more to this program in the future as I become more familiar with the language.
 
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
 [Software Demo Video](https://youtu.be/nRUy5PSiG40)
 
 # Development Environment
@@ -25,7 +23,6 @@ Java is one of the most popular languages. It came about in 1995 when a team was
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 
 - [Youtube](https://www.youtube.com/@alexlorenlee/playlists)
 - [W3Schools](https://www.w3schools.com/java/default.asp)
